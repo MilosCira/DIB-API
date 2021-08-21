@@ -18,11 +18,11 @@ public class Beer {
 	@Column
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private long id;
-	@Column(name = "name")
+	@Column(name = "name", length = 3)
 	private String name;
-	@Column(name = "description")
+	@Column(name = "description",length = 10)
 	private String description;
-	@Column(name = "temperature")
+	@Column(name = "temperature", nullable=false)
 	private double temperature;
 	
 

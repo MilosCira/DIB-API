@@ -7,7 +7,14 @@ module.exports = {
                 target: 'http://localhost:8090',
                 ws: true,
                 changeOrigin: true
+            },
+            '/fileUpload': {
+                target: 'http://localhost:8090',
+                ws: true,
+                changeOrigin: true
+              
             }
+            
         }
     }
 }

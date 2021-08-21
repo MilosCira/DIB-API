@@ -37,7 +37,7 @@ export default {
   data() {
     return {
       data: "",
-      baseURL: "http://localhost:8080",
+     
     };
   },
   methods: {

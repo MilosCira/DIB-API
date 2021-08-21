@@ -11,5 +11,6 @@ public interface BeerService {
 	Beer findById(Long id);
 	void deleteById(Long id);
 	void save(List<Beer> beers);
+	void updateBeer(Beer beer);
 	Long numberOfRows();
 }
