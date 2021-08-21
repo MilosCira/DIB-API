@@ -19,8 +19,14 @@ some additional benefites
  * Download node version and install global
  * Now just go in frontend folder and just write npm i after that npm run serve  you can see project with CRUD 
    on frontend
+   * ![beer](https://user-images.githubusercontent.com/72534020/130164518-462aa7e1-491d-4919-953e-33d9dbe79567.png)
+
 
 ## What i can do better
+<<<<<<< HEAD
 * Better handle exception, better write README file for sure and clear code writing, with maybe a few extra methods for something repetitive,
   make a method for save() and saveAll(), for POST request, In case I receive an xml file from several beers I would use saveAll(), and when I receive only one beer save().
 .
+=======
+* Better handle exception, better write README file for sure and clear code writing, with maybe a few extra methods for something repetitive.
+>>>>>>> b41144b41571e195a4cbcb6068b95913afe487c8
