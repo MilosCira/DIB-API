@@ -1,4 +1,3 @@
-# DIB CHALLENGE API
 
 ## Why use spring boot
 * First of all, it makes use java, Spring boot isamazing that helps you to get enterprise-grade applications up and running quickly without having to worry about configuring your application correctly and safely.
